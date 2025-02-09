@@ -1,4 +1,4 @@
-# Sweet-Donut-Website-Tested-with-Cypress
+# Sweet-Donut-Website-Tested-with-Selenium
 
 ![image](https://github.com/user-attachments/assets/fcb2c835-aa31-4ab0-ad83-1bb133b6c53e)
 
@@ -12,6 +12,7 @@ This project focuses on the automation testing of the Sweet Donut website using 
 ![Java]( https://img.shields.io/badge/JavaScript-Language-yellow)  <br/>
 ![GitHub]( https://img.shields.io/badge/GitHub-Version_Control-4183CA)   <br/>
 ![Page Object Model]( https://img.shields.io/badge/Page_Object_Model-Framework-00A859)  <br/>
+![BDD Cucumber]( https://img.shields.io/badge/BDD_Cucumber-Framework-00A859)  <br/>
 
 ## 📂 Features Tested
 **1.Search Functionality:**
