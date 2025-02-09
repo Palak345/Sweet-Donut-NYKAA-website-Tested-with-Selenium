@@ -9,7 +9,7 @@ This project focuses on the automation testing of the Sweet Donut website using 
 ## 🛠️ Tools and Technologies Used
 
 ![Selenium]( https://img.shields.io/badge/Cypress-Testing-blue) <br/>
-![Java]( https://img.shields.io/badge/JavaScript-Language-yellow)  <br/>
+![Java]( https://img.shields.io/badge/Java-Language-yellow)  <br/>
 ![GitHub]( https://img.shields.io/badge/GitHub-Version_Control-4183CA)   <br/>
 ![Page Object Model]( https://img.shields.io/badge/Page_Object_Model-Framework-00A859)  <br/>
 ![BDD Cucumber]( https://img.shields.io/badge/BDD_Cucumber-Framework-00A859)  <br/>
@@ -47,30 +47,25 @@ This project includes various documentation and reports to ensure comprehensive 
 **2.Mindmap:**
 
 &#x25CF; A mindmap outlining the testing strategy, covering major areas of testing like functional, non-functional, UI, and API testing. <br/>
-![Mind Map](https://drive.google.com/file/d/14MuYO6YlQYqrErTzTeiPMEUtdbVJUYuV/view?usp=drive_link) <br/>
 
 **3.Test Plan:**
 
 &#x25CF; A comprehensive Test Plan document detailing the scope, objectives, testing types, strategy, resource requirements, and timelines. <br/>
 &#x25CF; The plan outlines the testing approach for both manual and automated tests.  <br/>
-![Test Plan](https://docs.google.com/document/d/1bRtZxd-2Xum98cZUfRjTCSiRWN66Tm48GOyQ0o6c8LM/edit?usp=drive_link) <br/>
 
 **4.Test Cases:**
 
 &#x25CF; Manual test cases for non-functional testing covering performance, security, and usability tests. <br/>
 &#x25CF; These cases ensure the application can handle large user loads, is secure, and provides a good user experience.  <br/>
-![Test Cases](https://drive.google.com/file/d/1h2t2ZOCTT8Q2qbTaggwp7Olz2IX7RpIZ/view?usp=drive_link) <br/>
 
 **5.Bug Report:**
 
 &#x25CF; A detailed bug report listing all issues discovered during testing, including bug IDs, descriptions, severity, steps to reproduce, and status. <br/>
-![Bug Report](https://drive.google.com/file/d/1NchsExNUsney_-fHIYQPFnuyivxp69Co/view?usp=sharing)  <br/>
 
 **6.Test Summary Report:**
 
 &#x25CF; A summary of test execution results, including the number of test cases passed, failed and details on any major defects found. <br/>
 &#x25CF; The report includes high-level recommendations based on the testing outcomes.  <br/>
-![Summary Report](https://docs.google.com/document/d/1fh1fL9UGnDbrk_grt_KPwsoOApu9BddGXLb3GXWHmDg/edit?usp=drive_link)
 
 ## ✨ Highlights
 
